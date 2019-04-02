@@ -22,6 +22,7 @@ We'll be going over all of this during the workshop, but in the interest of savi
 bandwidth that will be available, please feel free to install (or at least download) the following 
 on your laptop ahead of time. The commands shown below are for the Mac:
 
+* __GitHub__ - You will need a GitHub.com account.
 
 * __HomeBrew__ - OSX build environment
 
