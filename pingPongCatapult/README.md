@@ -12,6 +12,9 @@ to Ping Pong balls! (BYOL - bring your own laptop)
  
 ### Things you can do before you come to the workshop 
 
+**Make sure your laptop has either a built-in USB-A connector or a
+USB-C to USB-A dongle.**
+
 During the workshop you will using the Google Cloud Platform. You will need to log in to
 the Google Cloud Platform (https://console.cloud.google.com) using your Google account.
 
